@@ -1,0 +1,180 @@
+Dec 28 07:58:48 ubuntu tpvmlpd2[37181]: device type not supported
+Dec 28 07:58:48 ubuntu puppet-master[2915]: Processing reopen_logs
+Dec 28 07:58:48 ubuntu puppet-master[2915]: Reopening log files
+Dec 28 07:58:52 ubuntu puppet-agent[37250]: Reopening log files
+Dec 28 07:58:53 ubuntu puppet-agent[37250]: Starting Puppet client version 3.8.4
+Dec 28 07:58:53 ubuntu puppet-agent[37255]: Unable to fetch my node definition, but the agent run will continue:
+Dec 28 07:58:53 ubuntu puppet-agent[37255]: getaddrinfo: Name or service not known
+Dec 28 07:58:53 ubuntu puppet-agent[37255]: (/File[/var/lib/puppet/facts.d]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 07:58:53 ubuntu puppet-agent[37255]: (/File[/var/lib/puppet/facts.d]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/pluginfacts: getaddrinfo: Name or service not known
+Dec 28 07:58:53 ubuntu puppet-agent[37255]: (/File[/var/lib/puppet/lib]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 07:58:54 ubuntu puppet-agent[37255]: (/File[/var/lib/puppet/lib]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/plugins: getaddrinfo: Name or service not known
+Dec 28 07:58:55 ubuntu puppet-agent[37255]: Could not retrieve catalog from remote server: getaddrinfo: Name or service not known
+Dec 28 07:58:55 ubuntu puppet-agent[37255]: Using cached catalog
+Dec 28 07:58:55 ubuntu puppet-agent[37255]: Could not retrieve catalog; skipping run
+Dec 28 07:58:55 ubuntu puppet-agent[37255]: Could not send report: getaddrinfo: Name or service not known
+Dec 28 07:59:03 ubuntu anacron[34097]: Job `cron.daily' terminated
+Dec 28 07:59:03 ubuntu anacron[34097]: Normal exit (1 job run)
+Dec 28 07:59:03 ubuntu tpvmlpd2[37560]: device type not supported
+Dec 28 07:59:18 ubuntu tpvmlpd2[37576]: device type not supported
+Dec 28 07:59:33 ubuntu tpvmlpd2[37592]: device type not supported
+Dec 28 07:59:48 ubuntu tpvmlpd2[37608]: device type not supported
+Dec 28 08:00:03 ubuntu tpvmlpd2[37624]: device type not supported
+Dec 28 08:00:18 ubuntu tpvmlpd2[37640]: device type not supported
+Dec 28 08:00:33 ubuntu tpvmlpd2[37656]: device type not supported
+Dec 28 08:00:48 ubuntu tpvmlpd2[37672]: device type not supported
+Dec 28 08:00:55 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x23baa078)
+Dec 28 08:00:55 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 08:00:55 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 786 seconds.
+Dec 28 08:01:03 ubuntu tpvmlpd2[37699]: device type not supported
+Dec 28 08:01:18 ubuntu tpvmlpd2[37715]: device type not supported
+Dec 28 08:01:33 ubuntu tpvmlpd2[37731]: device type not supported
+Dec 28 08:01:48 ubuntu tpvmlpd2[37747]: device type not supported
+Dec 28 08:02:03 ubuntu tpvmlpd2[37763]: device type not supported
+Dec 28 08:02:18 ubuntu tpvmlpd2[37779]: device type not supported
+Dec 28 08:02:33 ubuntu tpvmlpd2[37795]: device type not supported
+Dec 28 08:02:48 ubuntu tpvmlpd2[37811]: device type not supported
+Dec 28 08:03:03 ubuntu tpvmlpd2[37827]: device type not supported
+Dec 28 08:03:18 ubuntu tpvmlpd2[37843]: device type not supported
+Dec 28 08:03:33 ubuntu tpvmlpd2[37858]: device type not supported
+Dec 28 08:03:33 ubuntu tpvmlpd2[36812]: aborting
+Dec 28 08:09:01 ubuntu CRON[38186]: (root) CMD (  [ -x /usr/lib/php5/maxlifetime ] && [ -x /usr/lib/php5/sessionclean ] && [ -d /var/lib/php5 ] && /usr/lib/php5/sessionclean /var/lib/php5 $(/usr/lib/php5/maxlifetime))
+Dec 28 08:14:01 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x23baa078)
+Dec 28 08:14:01 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 08:14:01 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 785 seconds.
+Dec 28 08:17:01 ubuntu CRON[38687]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 28 08:27:06 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x23baa078)
+Dec 28 08:27:06 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 08:27:06 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 771 seconds.
+Dec 28 08:28:53 ubuntu puppet-agent[39408]: Unable to fetch my node definition, but the agent run will continue:
+Dec 28 08:28:53 ubuntu puppet-agent[39408]: getaddrinfo: Name or service not known
+Dec 28 08:28:53 ubuntu puppet-agent[39408]: (/File[/var/lib/puppet/facts.d]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 08:28:53 ubuntu puppet-agent[39408]: (/File[/var/lib/puppet/facts.d]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/pluginfacts: getaddrinfo: Name or service not known
+Dec 28 08:28:53 ubuntu puppet-agent[39408]: (/File[/var/lib/puppet/lib]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 08:28:53 ubuntu puppet-agent[39408]: (/File[/var/lib/puppet/lib]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/plugins: getaddrinfo: Name or service not known
+Dec 28 08:28:54 ubuntu puppet-agent[39408]: Could not retrieve catalog from remote server: getaddrinfo: Name or service not known
+Dec 28 08:28:54 ubuntu puppet-agent[39408]: Using cached catalog
+Dec 28 08:28:54 ubuntu puppet-agent[39408]: Could not retrieve catalog; skipping run
+Dec 28 08:28:54 ubuntu puppet-agent[39408]: Could not send report: getaddrinfo: Name or service not known
+Dec 28 08:30:01 ubuntu CRON[39753]: (root) CMD (/usr/bin/puppet agent --onetime --no-daemonize --splay)
+Dec 28 08:39:01 ubuntu CRON[40309]: (root) CMD (  [ -x /usr/lib/php5/maxlifetime ] && [ -x /usr/lib/php5/sessionclean ] && [ -d /var/lib/php5 ] && /usr/lib/php5/sessionclean /var/lib/php5 $(/usr/lib/php5/maxlifetime))
+Dec 28 08:39:57 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x23baa078)
+Dec 28 08:39:57 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 08:39:57 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 783 seconds.
+Dec 28 08:53:00 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x23baa078)
+Dec 28 08:53:00 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 08:53:00 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 802 seconds.
+Dec 28 08:58:53 ubuntu puppet-agent[41579]: Unable to fetch my node definition, but the agent run will continue:
+Dec 28 08:58:53 ubuntu puppet-agent[41579]: getaddrinfo: Name or service not known
+Dec 28 08:58:53 ubuntu puppet-agent[41579]: (/File[/var/lib/puppet/facts.d]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 08:58:53 ubuntu puppet-agent[41579]: (/File[/var/lib/puppet/facts.d]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/pluginfacts: getaddrinfo: Name or service not known
+Dec 28 08:58:53 ubuntu puppet-agent[41579]: (/File[/var/lib/puppet/lib]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 08:58:53 ubuntu puppet-agent[41579]: (/File[/var/lib/puppet/lib]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/plugins: getaddrinfo: Name or service not known
+Dec 28 08:58:54 ubuntu puppet-agent[41579]: Could not retrieve catalog from remote server: getaddrinfo: Name or service not known
+Dec 28 08:58:54 ubuntu puppet-agent[41579]: Using cached catalog
+Dec 28 08:58:54 ubuntu puppet-agent[41579]: Could not retrieve catalog; skipping run
+Dec 28 08:58:54 ubuntu puppet-agent[41579]: Could not send report: getaddrinfo: Name or service not known
+Dec 28 08:59:07 ubuntu puppet-agent[39754]: Unable to fetch my node definition, but the agent run will continue:
+Dec 28 08:59:07 ubuntu puppet-agent[39754]: getaddrinfo: Name or service not known
+Dec 28 08:59:07 ubuntu puppet-agent[39754]: (/File[/var/lib/puppet/facts.d]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 08:59:07 ubuntu puppet-agent[39754]: (/File[/var/lib/puppet/facts.d]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/pluginfacts: getaddrinfo: Name or service not known
+Dec 28 08:59:07 ubuntu puppet-agent[39754]: (/File[/var/lib/puppet/lib]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 08:59:07 ubuntu puppet-agent[39754]: (/File[/var/lib/puppet/lib]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/plugins: getaddrinfo: Name or service not known
+Dec 28 08:59:08 ubuntu puppet-agent[39754]: Could not retrieve catalog from remote server: getaddrinfo: Name or service not known
+Dec 28 08:59:08 ubuntu puppet-agent[39754]: Using cached catalog
+Dec 28 08:59:08 ubuntu puppet-agent[39754]: Could not retrieve catalog; skipping run
+Dec 28 08:59:08 ubuntu puppet-agent[39754]: Could not send report: getaddrinfo: Name or service not known
+Dec 28 09:06:22 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x23baa078)
+Dec 28 09:06:22 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 09:06:22 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 689 seconds.
+Dec 28 09:09:01 ubuntu CRON[42747]: (root) CMD (  [ -x /usr/lib/php5/maxlifetime ] && [ -x /usr/lib/php5/sessionclean ] && [ -d /var/lib/php5 ] && /usr/lib/php5/sessionclean /var/lib/php5 $(/usr/lib/php5/maxlifetime))
+Dec 28 09:17:01 ubuntu CRON[43264]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 28 09:17:51 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x23baa078)
+Dec 28 09:17:51 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 09:17:51 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 820 seconds.
+Dec 28 09:28:53 ubuntu puppet-agent[44043]: Unable to fetch my node definition, but the agent run will continue:
+Dec 28 09:28:53 ubuntu puppet-agent[44043]: getaddrinfo: Name or service not known
+Dec 28 09:28:53 ubuntu puppet-agent[44043]: (/File[/var/lib/puppet/facts.d]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 09:28:53 ubuntu puppet-agent[44043]: (/File[/var/lib/puppet/facts.d]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/pluginfacts: getaddrinfo: Name or service not known
+Dec 28 09:28:53 ubuntu puppet-agent[44043]: (/File[/var/lib/puppet/lib]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 09:28:53 ubuntu puppet-agent[44043]: (/File[/var/lib/puppet/lib]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/plugins: getaddrinfo: Name or service not known
+Dec 28 09:28:54 ubuntu puppet-agent[44043]: Could not retrieve catalog from remote server: getaddrinfo: Name or service not known
+Dec 28 09:28:54 ubuntu puppet-agent[44043]: Using cached catalog
+Dec 28 09:28:54 ubuntu puppet-agent[44043]: Could not retrieve catalog; skipping run
+Dec 28 09:28:54 ubuntu puppet-agent[44043]: Could not send report: getaddrinfo: Name or service not known
+Dec 28 09:30:01 ubuntu CRON[44396]: (root) CMD (/usr/bin/puppet agent --onetime --no-daemonize --splay)
+Dec 28 09:30:22 ubuntu puppet-agent[44397]: Unable to fetch my node definition, but the agent run will continue:
+Dec 28 09:30:22 ubuntu puppet-agent[44397]: getaddrinfo: Name or service not known
+Dec 28 09:30:22 ubuntu puppet-agent[44397]: (/File[/var/lib/puppet/facts.d]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 09:30:22 ubuntu puppet-agent[44397]: (/File[/var/lib/puppet/facts.d]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/pluginfacts: getaddrinfo: Name or service not known
+Dec 28 09:30:22 ubuntu puppet-agent[44397]: (/File[/var/lib/puppet/lib]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 09:30:22 ubuntu puppet-agent[44397]: (/File[/var/lib/puppet/lib]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/plugins: getaddrinfo: Name or service not known
+Dec 28 09:30:23 ubuntu puppet-agent[44397]: Could not retrieve catalog from remote server: getaddrinfo: Name or service not known
+Dec 28 09:30:23 ubuntu puppet-agent[44397]: Using cached catalog
+Dec 28 09:30:23 ubuntu puppet-agent[44397]: Could not retrieve catalog; skipping run
+Dec 28 09:30:23 ubuntu puppet-agent[44397]: Could not send report: getaddrinfo: Name or service not known
+Dec 28 09:31:31 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x23baa078)
+Dec 28 09:31:31 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 09:31:31 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 889 seconds.
+Dec 28 09:39:01 ubuntu CRON[45250]: (root) CMD (  [ -x /usr/lib/php5/maxlifetime ] && [ -x /usr/lib/php5/sessionclean ] && [ -d /var/lib/php5 ] && /usr/lib/php5/sessionclean /var/lib/php5 $(/usr/lib/php5/maxlifetime))
+Dec 28 09:40:11 ubuntu kernel: [229291.542438] e1000: eth1 NIC Link is Down
+Dec 28 09:57:30 ubuntu kernel: [229300.468087] e1000: eth1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Dec 28 09:57:36 ubuntu kernel: [229306.476949] e1000: eth1 NIC Link is Down
+Dec 28 09:57:40 ubuntu kernel: [229310.920199] e1000: eth1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Dec 28 09:58:53 ubuntu puppet-agent[45413]: Unable to fetch my node definition, but the agent run will continue:
+Dec 28 09:58:53 ubuntu puppet-agent[45413]: getaddrinfo: Name or service not known
+Dec 28 09:58:53 ubuntu puppet-agent[45413]: (/File[/var/lib/puppet/facts.d]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 09:58:54 ubuntu puppet-agent[45413]: (/File[/var/lib/puppet/facts.d]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/pluginfacts: getaddrinfo: Name or service not known
+Dec 28 09:58:54 ubuntu puppet-agent[45413]: (/File[/var/lib/puppet/lib]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 09:58:54 ubuntu puppet-agent[45413]: (/File[/var/lib/puppet/lib]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/plugins: getaddrinfo: Name or service not known
+Dec 28 09:58:56 ubuntu kernel: [229386.974100] e1000: eth1 NIC Link is Down
+Dec 28 09:59:00 ubuntu kernel: [229390.977406] e1000: eth1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Dec 28 09:59:02 ubuntu puppet-agent[45413]: Could not retrieve catalog from remote server: getaddrinfo: Name or service not known
+Dec 28 09:59:02 ubuntu puppet-agent[45413]: Using cached catalog
+Dec 28 09:59:02 ubuntu puppet-agent[45413]: Could not retrieve catalog; skipping run
+Dec 28 09:59:02 ubuntu puppet-agent[45413]: Could not send report: getaddrinfo: Name or service not known
+Dec 28 10:03:31 ubuntu avahi-daemon[745]: Withdrawing address record for 192.168.109.167 on eth1.
+Dec 28 10:03:31 ubuntu avahi-daemon[745]: Leaving mDNS multicast group on interface eth1.IPv4 with address 192.168.109.167.
+Dec 28 10:03:31 ubuntu avahi-daemon[745]: Interface eth1.IPv4 no longer relevant for mDNS.
+Dec 28 10:03:31 ubuntu dnsmasq[3431]: no servers found in /etc/resolv.conf, will retry
+Dec 28 10:03:31 ubuntu avahi-autoipd(eth1)[45995]: Found user 'avahi-autoipd' (UID 105) and group 'avahi-autoipd' (GID 113).
+Dec 28 10:03:31 ubuntu avahi-autoipd(eth1)[45995]: Successfully called chroot().
+Dec 28 10:03:31 ubuntu avahi-autoipd(eth1)[45995]: Successfully dropped root privileges.
+Dec 28 10:03:31 ubuntu avahi-autoipd(eth1)[45995]: Starting with address 169.254.7.19
+Dec 28 10:03:37 ubuntu avahi-autoipd(eth1)[45995]: Callout BIND, address 169.254.7.19 on interface eth1
+Dec 28 10:03:37 ubuntu avahi-daemon[745]: Joining mDNS multicast group on interface eth1.IPv4 with address 169.254.7.19.
+Dec 28 10:03:37 ubuntu avahi-daemon[745]: New relevant interface eth1.IPv4 for mDNS.
+Dec 28 10:03:37 ubuntu avahi-daemon[745]: Registering new address record for 169.254.7.19 on eth1.IPv4.
+Dec 28 10:03:41 ubuntu avahi-autoipd(eth1)[45995]: Successfully claimed IP address 169.254.7.19
+Dec 28 10:03:41 ubuntu avahi-autoipd(eth1)[45995]: Got SIGTERM, quitting.
+Dec 28 10:03:41 ubuntu avahi-autoipd(eth1)[45995]: Callout STOP, address 169.254.7.19 on interface eth1
+Dec 28 10:03:41 ubuntu avahi-daemon[745]: Withdrawing address record for 169.254.7.19 on eth1.
+Dec 28 10:03:41 ubuntu avahi-daemon[745]: Leaving mDNS multicast group on interface eth1.IPv4 with address 169.254.7.19.
+Dec 28 10:03:41 ubuntu avahi-daemon[745]: Interface eth1.IPv4 no longer relevant for mDNS.
+Dec 28 10:03:41 ubuntu dhclient: DHCPDISCOVER on eth1 to 255.255.255.255 port 67 interval 3 (xid=0x24c1e19b)
+Dec 28 10:03:42 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 255.255.255.255 port 67 (xid=0x24c1e19b)
+Dec 28 10:03:42 ubuntu dhclient: DHCPOFFER of 192.168.109.167 from 192.168.109.254
+Dec 28 10:03:42 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 10:03:42 ubuntu avahi-daemon[745]: Joining mDNS multicast group on interface eth1.IPv4 with address 192.168.109.167.
+Dec 28 10:03:42 ubuntu avahi-daemon[745]: New relevant interface eth1.IPv4 for mDNS.
+Dec 28 10:03:42 ubuntu avahi-daemon[745]: Registering new address record for 192.168.109.167 on eth1.IPv4.
+Dec 28 10:03:43 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 828 seconds.
+Dec 28 10:09:01 ubuntu CRON[46393]: (root) CMD (  [ -x /usr/lib/php5/maxlifetime ] && [ -x /usr/lib/php5/sessionclean ] && [ -d /var/lib/php5 ] && /usr/lib/php5/sessionclean /var/lib/php5 $(/usr/lib/php5/maxlifetime))
+Dec 28 10:17:01 ubuntu CRON[46888]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec 28 10:17:31 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x24c1e19b)
+Dec 28 10:17:31 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 10:17:31 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 681 seconds.
+Dec 28 10:28:52 ubuntu dhclient: DHCPREQUEST of 192.168.109.167 on eth1 to 192.168.109.254 port 67 (xid=0x24c1e19b)
+Dec 28 10:28:52 ubuntu dhclient: DHCPACK of 192.168.109.167 from 192.168.109.254
+Dec 28 10:28:52 ubuntu dhclient: bound to 192.168.109.167 -- renewal in 899 seconds.
+Dec 28 10:28:53 ubuntu puppet-agent[47617]: Unable to fetch my node definition, but the agent run will continue:
+Dec 28 10:28:53 ubuntu puppet-agent[47617]: getaddrinfo: Name or service not known
+Dec 28 10:28:53 ubuntu puppet-agent[47617]: (/File[/var/lib/puppet/facts.d]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 10:28:53 ubuntu puppet-agent[47617]: (/File[/var/lib/puppet/facts.d]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/pluginfacts: getaddrinfo: Name or service not known
+Dec 28 10:28:54 ubuntu puppet-agent[47617]: (/File[/var/lib/puppet/lib]) Failed to generate additional resources using 'eval_generate': getaddrinfo: Name or service not known
+Dec 28 10:28:54 ubuntu puppet-agent[47617]: (/File[/var/lib/puppet/lib]) Could not evaluate: Could not retrieve file metadata for puppet://puppet/plugins: getaddrinfo: Name or service not known
+Dec 28 10:28:57 ubuntu puppet-agent[47617]: Could not retrieve catalog from remote server: getaddrinfo: Name or service not known
+Dec 28 10:28:57 ubuntu puppet-agent[47617]: Using cached catalog
+Dec 28 10:28:57 ubuntu puppet-agent[47617]: Could not retrieve catalog; skipping run
+Dec 28 10:28:58 ubuntu puppet-agent[47617]: Could not send report: getaddrinfo: Name or service not known
+Dec 28 10:30:01 ubuntu CRON[47962]: (root) CMD (/usr/bin/puppet agent --onetime --no-daemonize --splay)

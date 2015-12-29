@@ -1,0 +1,2 @@
+proc = subprocess.Popen(cmd, shell=True)
+(out,err) = proc.communicate()
