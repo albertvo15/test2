@@ -8,4 +8,4 @@ regex = '([(\d\.)]+) - (.*) \[(.*?)\] "(.*?)" (\d+) - "(.*?)" "(.*?)"'
 
 import re
 match =  re.match(regex, line)
-print match.group(0)
+print match.groups(0)
