@@ -7,4 +7,5 @@ regex = '([(\d\.)]+) - (.*) \[(.*?)\] "(.*?)" (\d+) - "(.*?)" "(.*?)"'
 #regex = '([(\d\.)]+) - - \[(.*?)\] "(.*?)" (\d+) - "(.*?)" "(.*?)"'
 
 import re
-print re.match(regex, line).groups()
+match =  re.match(regex, line)
+print match.group(0)
