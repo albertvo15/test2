@@ -1,8 +1,8 @@
 
-class Animal()
+class Animal():
   def play():
     print "Animal class play"
-  return
+    return
 
 
 class Pet(Animal):
@@ -14,4 +14,4 @@ class Pet(Animal):
 
 
 
-fluffy = Pet(‘Fluffy the cat’)
+fluffy = Pet('Fluffy the cat')
